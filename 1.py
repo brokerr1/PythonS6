@@ -1,5 +1,4 @@
 #Создайте программу для игры в "Крестики-нолики".
-# -*- coding: utf-8 -*-
 board = list(range(1,10))
 
 def draw_board(board):
